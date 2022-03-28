@@ -1,0 +1,1 @@
+{"frames":[{"func":"roc(X$truth, X$rating, plot = TRUE, legacy.axes = TRUE, lwd = 3, \n    col = \"#377eb8\", print.auc = TRUE)","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0}],"message":"Error in roc(X$truth, X$rating, plot = TRUE, legacy.axes = TRUE, lwd = 3,  : \n  object 'X' not found\n"}
