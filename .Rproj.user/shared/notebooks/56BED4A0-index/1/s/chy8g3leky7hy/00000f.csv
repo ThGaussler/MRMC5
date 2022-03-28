@@ -1,6 +1,0 @@
-"0","## Total area under the ROC curve"
-"0","par(pty=""s"")"
-"0","roc.info <- roc(X$truth, X$rating, plot=TRUE, legacy.axes=TRUE, lwd=3, col='#377eb8', print.auc=TRUE)"
-"2","Error in roc(X$truth, X$rating, plot = TRUE, legacy.axes = TRUE, lwd = 3,  : 
-  object 'X' not found
-"
